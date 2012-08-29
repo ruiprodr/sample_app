@@ -26,6 +26,7 @@ group :test do
   gem 'capybara', '1.1.2'
   gem 'guard-spork', '0.3.2'
   gem 'spork', '0.9.0'
+  gem 'factory_girl_rails', '1.4.0'
   gem 'rb-fsevent', '0.9.1', :platforms => :ruby
   gem 'growl', '1.0.3', :platforms => :ruby
   gem 'rb-fchange', '0.0.5', :platforms => [:mswin, :mingw]
